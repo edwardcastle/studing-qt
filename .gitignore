@@ -1,0 +1,21 @@
+# Build output
+build/
+build-*/
+cmake-build-*/
+*.user
+*.user.*
+
+# Qt Creator / IDE
+CMakeLists.txt.user*
+.qtc_clangd/
+.cache/
+.vscode/
+compile_commands.json
+
+# Generated
+*.o
+*.so
+*.a
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
