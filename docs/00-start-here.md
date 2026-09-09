@@ -1,5 +1,10 @@
 # 0 — Start here
 
+> **New to C++ as well as Qt?** This page — and every page after it — assumes
+> you already read C++ comfortably. Start with
+> [10-learning-path.md](10-learning-path.md) instead: it sequences C++ and Qt
+> so you are not learning four things at once, and it comes back here.
+
 ## How to use this repository
 
 Reading code beats reading tutorials, but only if you read it in the right

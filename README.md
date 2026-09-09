@@ -85,6 +85,7 @@ you the QML debugger, the profiler and code completion for both languages.
 | 7 | [docs/07-cpp-notes.md](docs/07-cpp-notes.md) | the C++ idioms used here, explained |
 | 8 | [docs/08-exercises.md](docs/08-exercises.md) | graded exercises, from 10 minutes to a weekend |
 | 9 | [docs/09-troubleshooting.md](docs/09-troubleshooting.md) | the errors you *will* hit, and what they mean |
+| 10 | [docs/10-learning-path.md](docs/10-learning-path.md) | **new to C++ as well as Qt? start here** — a staged plan with checkpoints |
 
 ---
 

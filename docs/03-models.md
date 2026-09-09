@@ -32,8 +32,8 @@ QVariant data(const QModelIndex &index, int role) const override;
 QHash<int, QByteArray> roleNames() const override;    // for QML
 ```
 
-Read `src/models/ScanResultModel.cpp` — it is 60 lines and does exactly this
-and nothing else. Then read `src/models/TaskListModel.cpp` for the full version.
+Read `src/models/ScanResultModel.cpp` — it is about 75 lines and does exactly
+this and nothing else. Then read `src/models/TaskListModel.cpp` for the full version.
 
 ### `rowCount()` and the parent check
 
